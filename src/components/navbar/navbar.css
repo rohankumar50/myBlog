@@ -1,0 +1,17 @@
+.navbar{
+    color: wheat;
+}
+
+.navbar_body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar_menu{
+    background-color: white;
+    margin: 5px 10px 5px 10px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 100px;
+}
